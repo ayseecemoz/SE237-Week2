@@ -33,7 +33,7 @@ METAL-A: 0
 WOOD-A again: 3000
 
 Exercise 5 - Dependency and Association
-Shows the difference between dependency and association
+Shows the difference between dependency and associationn
 
 Output:
 Planner sees WOOD-A: 3000
